@@ -1,0 +1,18 @@
+.navbrand{
+    color: #C62C45;
+}
+header{
+    background-image: url("../img/header-bg.jpg");
+    background: linear-gradient(45deg,rgba(0,0,0,0.75), rgba(0,0,0,0.75)),url("../img/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.center-block{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}
